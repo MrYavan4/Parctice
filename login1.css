@@ -1,0 +1,68 @@
+body {
+   background-color: lightgray; 
+}
+
+section {
+    margin: 50px auto;
+    width: 640px;
+    background-color: lightcyan;
+}
+
+h1 {
+    text-align: center;
+    color: lightblue;
+    border-bottom: 2px solid lightblue;
+    text-shadow: 0 1px #2a85a1;
+    font-size: 40px;
+}
+
+.login {
+    position: relative;
+    margin: 0 auto;
+    padding: 0px 20px 20px;
+    width: 310px;
+}
+li {
+    list-style-type: none;
+    padding: 10px;
+    color: lightblue;
+    text-shadow: 0 1px #2a85a1;
+}
+
+lable {
+    
+}
+
+/*Styling of Login Help section */
+
+.login p.submit {
+    text-align: right;
+}
+
+.login-help {
+    font-size: 13px;
+    color: white;
+    text-align: center;
+    text-shadow: 0 1px #2a85a1;
+}
+
+.login-help a {
+    color: #cce7fa;
+    text-decoration: none;
+}
+
+.login-help a:hover {
+    text-decoration: underline;
+}
+
+-moz-placeholder {
+    color: #c9c9c9 !important;
+    font-size: 13px;
+}
+
+: : -webkit-input-placeholder {
+    color: #ccc;
+    font-size: 13px;
+}
+
+/*Styling of Login Help section */
